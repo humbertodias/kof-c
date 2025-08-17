@@ -24,11 +24,11 @@ make && ./kof
 ```
 
 Controller
-`
+```
 w: up
 a: left
 s: down
 d: right
 j: attack
 k: jump
-`
+```
